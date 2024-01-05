@@ -3,7 +3,7 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail              = "09.plod.poems@icloud.com"
-    AccountName               = "sandbox-aft"
+    AccountName               = "sandbox-aft-38d"
     ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "09.plod.poems@icloud.com"
     SSOUserFirstName          = "Sandbox"
